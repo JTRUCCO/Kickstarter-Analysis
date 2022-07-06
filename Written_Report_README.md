@@ -17,7 +17,7 @@ Visualized the different campaign outcomes on the basis of their launch date in 
 Measured the different outcomes," Successful", "Failed", "Canceled" in relation to months. From there I made a pivot table in Excel to better visualize the relation between the different outcomes.
 I Noticed that there are many successful Kickstarters in the Months of May(111 "Successful" Kickstarters) and June (111 "Successful" Kickstarters) This trend starts to taper off in June and continues to decline until December.
 
-Link
+![Outcomes based on launch date](https://github.com/JTRUCCO/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
