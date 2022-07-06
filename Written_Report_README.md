@@ -27,7 +27,7 @@ The Orange line represents the percentage of projects that failed in the given g
 The "successful" and "failed" percentage lines I interpreted show that Projects up to with goals up to 15000 dollars are typically above 50% successful. For projects that are above 15000 the percentage of failed projects is over 50% overall. The success rate crosses over the 50% barrier once more at the range between 35000 to 45000. I would suggest that the goal stay below 15000 dollars.
 
 
-Add Link For "Outcomes on goals" Graph  
+![Outcomes on goals](https://github.com/JTRUCCO/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png?raw=true)  
 
 
 ### Challenges and Difficulties Encountered
